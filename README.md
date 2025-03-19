@@ -114,9 +114,9 @@ A **Shopify-based ecommerce application** designed for seamless Fast Fashion Han
 
 ## 🧑🏻‍🎓 **Education**  
 
-🎓 **Master of Computer Applications** – [Dr.MGR Education & Research Institute, Chennai] **(2023)** | CGPA: 7.58 
+🎓 **Master of Computer Applications** – Dr.MGR Education & Research Institute, Chennai **(2023)** | CGPA: 7.58 
 
-🎓 **Bachelor of Computer Applications** – [Apollo Arts And Science college, Chennai] **(2020)** | CGPA: 7.28 
+🎓 **Bachelor of Computer Applications** – Apollo Arts And Science college, Chennai **(2020)** | CGPA: 7.28 
 
 ---
 
