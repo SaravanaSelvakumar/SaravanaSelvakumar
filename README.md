@@ -126,6 +126,25 @@ A **Shopify-based ecommerce application** designed for seamless Fast Fashion Han
 
 🎖️ Certification in Core Java (**SLA - 03/2024**)<br/>
 
-🎖️ Swift Developer Certification (**Udemy - 02/2025**) <br/>
+🎖️ Swift Developer Certification (**Udemy - 02/2025**)
+<br/><br/>
+<hr/>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=25&duration=4000&pause=1000&color=f05137&center=true&vCenter=true&width=600&height=70&lines=Thank+you+for+stopping+by!+✌️;I+appreciate+your+time!+💙;Feel+free+to+connect+on+LinkedIn!+🔗;Always+open+to+collab!+🚀">
+</h3>
+
+
+<div align="center">
+<a href="https://www.linkedin.com/in/saravananselvakumar/" target="_blank">
+    <img src="https://img.shields.io/badge/Let's%20Connect-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:saravananselvakumar06@gmail.com">
+    <img src="https://img.shields.io/badge/Message%20Me-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+</div>
+
+<br/>
 
 
