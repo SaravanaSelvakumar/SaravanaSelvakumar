@@ -12,9 +12,9 @@
 
 ---
 
-## 🧑🏻‍🎓→👨🏻‍💻📲 **About Me**  
+## 🧑🏻‍🎓→👨🏻‍💻 **About Me**  
 
-- 🎯 **Enthusiastic iOS Developer** with a year of experience in native app development using **Swift** and **SwiftUI**. With a deep understanding of core iOS frameworks and **API integrations**.  
+- 🎯 **Enthusiastic  iOS Developer** with a year of experience in native app development using **Swift** and **SwiftUI**. With a deep understanding of core iOS frameworks and **API integrations**.  
 - 💡 Designed and developed **high-performance iOS applications**, delivering **visually engaging** and **user-friendly interfaces** for a seamless experience.
 - ⚡ Skilled in **scalable, high-quality mobile applications** with intuitive **UI/UX**, version control (**Github, GitLab, Bitbucket**), and translating design concepts from Figma into functional user interfaces.
 - 🔥 Passionate about **leveraging the latest technologies** to build engaging apps.  
