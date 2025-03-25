@@ -1,4 +1,4 @@
-# 👋🏻 Hi, I'm **Saravanan** 👻
+# 👋🏻 Hi, I'm **Saravanan** 🧑🏻‍🎓
 
 <div align="center">
   <h1>
