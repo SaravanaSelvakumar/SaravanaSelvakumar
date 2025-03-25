@@ -1,4 +1,4 @@
-# 👋🏻 Hi, I'm **Saravanan** 🧑🏻‍🎓
+# 👋🏻 Hi, I'm **Saravanan** 🧑🏻‍💻
 
 <div align="center">
   <h1>
@@ -12,7 +12,7 @@
 
 ---
 
-## 👨🏻‍💻 **About Me**  
+## 🧑🏻‍🎓➢👨🏻‍💻📲 **About Me**  
 
 - 🎯 **Enthusiastic iOS Developer** with a year of experience in native app development using **Swift** and **SwiftUI**. With a deep understanding of core iOS frameworks and **API integrations**.  
 - 💡 Designed and developed **high-performance iOS applications**, delivering **visually engaging** and **user-friendly interfaces** for a seamless experience.
