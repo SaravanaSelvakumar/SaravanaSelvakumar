@@ -14,7 +14,7 @@
 
 ## 🧑🏻‍🎓→👨🏻‍💻 **About Me**  
 
-- 🎯 **Enthusiastic  iOS Developer** with a year of experience in native app development using **Swift** and **SwiftUI**. With a deep understanding of core iOS frameworks and **API integrations**.  
+- 👻 **Enthusiastic  iOS Developer** with a year of experience in native app development using **Swift** and **SwiftUI**. With a deep understanding of core iOS frameworks and **API integrations**.  
 - 💡 Designed and developed **high-performance iOS applications**, delivering **visually engaging** and **user-friendly interfaces** for a seamless experience.
 - ⚡ Skilled in **scalable, high-quality mobile applications** with intuitive **UI/UX**, version control (**Github, GitLab, Bitbucket**), and translating design concepts from Figma into functional user interfaces.
 - 🔥 Passionate about **leveraging the latest technologies** to build engaging apps.  
@@ -25,7 +25,9 @@
 ## 📩 **Get in Touch**  
 
 📧 **Email:** [saravananselvakumar06@gmail.com](mailto:saravananselvakumar06@gmail.com)  
-🔗 **LinkedIn:** [Saravanan Selvakumar](https://www.linkedin.com/in/saravananselvakumar/)  
+🔗 **LinkedIn:** [linkedin/saravananselvakumar](https://www.linkedin.com/in/saravananselvakumar/)  
+🎯**LeetCode:** [leetcode/SaravananSelvakumar](https://leetcode.com/u/saravananselvakumar/)  
+
 <div align="center"> 
   <a href="mailto:saravananselvakumar06@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -33,6 +35,9 @@
   <a href="https://www.linkedin.com/in/saravananselvakumar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+<a href="https://leetcode.com/u/saravananselvakumar/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
 </div>
 
 
